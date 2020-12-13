@@ -4,7 +4,7 @@ IMPORT io := Console;
 
 PROCEDURE DoSquare(v: INTEGER) : INTEGER;
 BEGIN
-	RETURN v * v;
+  RETURN v * v;
 END DoSquare;
 
 BEGIN
