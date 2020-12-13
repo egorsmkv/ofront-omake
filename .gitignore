@@ -1,0 +1,10 @@
+.idea/
+
+OfrontPlus/
+aria/
+compiled/
+
+*.c
+*.sym
+*.oh
+*.dSYM
