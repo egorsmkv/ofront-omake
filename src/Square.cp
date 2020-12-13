@@ -2,7 +2,7 @@ MODULE Square;
 
 IMPORT io := Console;
 
-PROCEDURE DoSquare(v: INTEGER) : INTEGER;
+PROCEDURE DoSquare(v: INTEGER): INTEGER;
 BEGIN
   RETURN v * v;
 END DoSquare;
